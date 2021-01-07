@@ -8,8 +8,7 @@
 
 
 ### I am Santhosh Kumar Jayaraman
--  Production Engineer --> Tester --> .NET Developer --> Frontend Developer --> Mobile Application Developer 
--  Currently working on React, React Native, Flutter, AWS, Firebase
+-  React, React Native, Flutter, AWS, Firebase
 -  Passionate about performance optimization, page load.
 -  Consult companies on Website development, Design System, Mobile application development, Salesforce CRM, PWA.
 
